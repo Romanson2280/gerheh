@@ -1,0 +1,356 @@
+Uri: https://expertsgr.ru/
+File Name: C:\Downloaded Web Sites\expertsgr.ru\index.htm
+Content Type: text/html
+
+Uri: https://expertsgr.ru/politika-konfidencialnosti
+File Name: C:\Downloaded Web Sites\expertsgr.ru\politika-konfidencialnosti.html
+Content Type: text/html
+
+Uri: https://expertsgr.ru/tilda-blocks-page45724037.min.css?t=1714683003
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tilda-blocks-page45724037.min.css
+Content Type: text/css
+
+Uri: https://expertsgr.ru/tilda-blocks-page45724037.min.js?t=1714683003
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tilda-blocks-page45724037.min.js
+Content Type: application/javascript
+
+Uri: https://expertsgr.ru/tilda-blocks-page46851105.min.css?t=1712645871
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tilda-blocks-page46851105.min.css
+Content Type: text/css
+
+Uri: https://expertsgr.ru/tilda-blocks-page46851105.min.js?t=1712645871
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tilda-blocks-page46851105.min.js
+Content Type: text/javascript
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cards-1.0.min.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\expertsgr.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\expertsgr.ru\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cards-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-map-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-map-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-processor-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-video-processor-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\expertsgr.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3039-3638-4636-b762-333662636661/IMG_0224.png
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3039-3638-4636-b762-333662636661\IMG_0224.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6466-3632-4463-b436-306239343965/IMG_0451.png
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6466-3632-4463-b436-306239343965\IMG_0451.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3035-6364-4663-a138-613830386362/-/resize/20x/IMG_0634.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3035-6364-4663-a138-613830386362\-\resize\20x\IMG_0634.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3163-3661-4539-b233-636666393939/-/empty/IMG_0798.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3163-3661-4539-b233-636666393939\-\empty\IMG_0798.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3165-6534-4231-b066-356332663534/-/empty/IMG_0595.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3165-6534-4231-b066-356332663534\-\empty\IMG_0595.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3239-3432-4666-b335-653231656263/-/empty/IMG_0595.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3239-3432-4666-b335-653231656263\-\empty\IMG_0595.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3363-3734-4961-a531-656537333564/-/empty/IMG_0592.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3363-3734-4961-a531-656537333564\-\empty\IMG_0592.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3364-3963-4338-b463-303361373536/-/resizeb/20x/wats.png
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3364-3963-4338-b463-303361373536\-\resizeb\20x\wats.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3365-6465-4565-a536-663039383137/-/resize/20x/IMG_0598.png
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3365-6465-4565-a536-663039383137\-\resize\20x\IMG_0598.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3465-3836-4061-b038-373637323362/-/empty/IMG_0617.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3465-3836-4061-b038-373637323362\-\empty\IMG_0617.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3661-3063-4666-a561-326363343631/-/empty/IMG_0591.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3661-3063-4666-a561-326363343631\-\empty\IMG_0591.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3761-3462-4463-a437-366434373032/-/empty/IMG_0601.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3761-3462-4463-a437-366434373032\-\empty\IMG_0601.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3839-3537-4230-a536-363832303136/-/empty/IMG_0597.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild3839-3537-4230-a536-363832303136\-\empty\IMG_0597.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6134-3062-4936-b439-336332383538/-/empty/IMG_0591.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6134-3062-4936-b439-336332383538\-\empty\IMG_0591.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6230-3864-4432-a231-646236653364/-/resizeb/20x/1674283139_catherine.jpg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6230-3864-4432-a231-646236653364\-\resizeb\20x\1674283139_catherine.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6235-3665-4964-a234-316435343765/-/empty/IMG_0614.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6235-3665-4964-a234-316435343765\-\empty\IMG_0614.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6333-3636-4538-b164-323031303238/-/empty/IMG_0616.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6333-3636-4538-b164-323031303238\-\empty\IMG_0616.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6338-3830-4630-b235-656266646635/-/empty/IMG_0601.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6338-3830-4630-b235-656266646635\-\empty\IMG_0601.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6438-3762-4764-b636-373434663539/-/empty/IMG_0609.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6438-3762-4764-b636-373434663539\-\empty\IMG_0609.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6532-3465-4630-b235-356162383938/-/empty/IMG_0564.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6532-3465-4630-b235-356162383938\-\empty\IMG_0564.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6563-3461-4531-b331-616262326632/-/empty/IMG_0597.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6563-3461-4531-b331-616262326632\-\empty\IMG_0597.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6632-6564-4233-b833-353231653763/-/empty/IMG_0610.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6632-6564-4233-b833-353231653763\-\empty\IMG_0610.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6639-6262-4666-b763-353666343834/-/empty/IMG_0592.jpeg
+File Name: C:\Downloaded Web Sites\expertsgr.ru\tild6639-6262-4666-b763-353666343834\-\empty\IMG_0592.jpeg
+Content Type: image/png
+
